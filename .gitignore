@@ -1,0 +1,18 @@
+# SPDX-FileCopyrightText: Copyright (c) 2022 Sidings Media 
+# SPDX-License-Identifier: CC0-1.0
+
+# IDE
+.vscode
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
